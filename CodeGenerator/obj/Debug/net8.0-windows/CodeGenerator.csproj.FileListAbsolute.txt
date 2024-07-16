@@ -1,0 +1,16 @@
+D:\Khabir\DigitalDokan\CodeGenerator\CodeGenerator\bin\Debug\net8.0-windows\CodeGenerator.exe
+D:\Khabir\DigitalDokan\CodeGenerator\CodeGenerator\bin\Debug\net8.0-windows\CodeGenerator.deps.json
+D:\Khabir\DigitalDokan\CodeGenerator\CodeGenerator\bin\Debug\net8.0-windows\CodeGenerator.runtimeconfig.json
+D:\Khabir\DigitalDokan\CodeGenerator\CodeGenerator\bin\Debug\net8.0-windows\CodeGenerator.dll
+D:\Khabir\DigitalDokan\CodeGenerator\CodeGenerator\bin\Debug\net8.0-windows\CodeGenerator.pdb
+D:\Khabir\DigitalDokan\CodeGenerator\CodeGenerator\obj\Debug\net8.0-windows\CodeGenerator.Form1.resources
+D:\Khabir\DigitalDokan\CodeGenerator\CodeGenerator\obj\Debug\net8.0-windows\CodeGenerator.csproj.GenerateResource.cache
+D:\Khabir\DigitalDokan\CodeGenerator\CodeGenerator\obj\Debug\net8.0-windows\CodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khabir\DigitalDokan\CodeGenerator\CodeGenerator\obj\Debug\net8.0-windows\CodeGenerator.AssemblyInfoInputs.cache
+D:\Khabir\DigitalDokan\CodeGenerator\CodeGenerator\obj\Debug\net8.0-windows\CodeGenerator.AssemblyInfo.cs
+D:\Khabir\DigitalDokan\CodeGenerator\CodeGenerator\obj\Debug\net8.0-windows\CodeGenerator.csproj.CoreCompileInputs.cache
+D:\Khabir\DigitalDokan\CodeGenerator\CodeGenerator\obj\Debug\net8.0-windows\CodeGenerator.dll
+D:\Khabir\DigitalDokan\CodeGenerator\CodeGenerator\obj\Debug\net8.0-windows\refint\CodeGenerator.dll
+D:\Khabir\DigitalDokan\CodeGenerator\CodeGenerator\obj\Debug\net8.0-windows\CodeGenerator.pdb
+D:\Khabir\DigitalDokan\CodeGenerator\CodeGenerator\obj\Debug\net8.0-windows\CodeGenerator.genruntimeconfig.cache
+D:\Khabir\DigitalDokan\CodeGenerator\CodeGenerator\obj\Debug\net8.0-windows\ref\CodeGenerator.dll
